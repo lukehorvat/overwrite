@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "copy-dir": "0.0.8",
-    "is-string": "1.0.4",
+    "lodash.isfunction": "3.0.8",
     "tempfile": "1.1.1"
   },
   "devDependencies": {
