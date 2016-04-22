@@ -1,6 +1,6 @@
 {
   "name": "overwrite",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Overwrite any file in a Node.js module on-the-fly!",
   "author": "Luke Horvat",
   "license": "MIT",
