@@ -1,7 +1,7 @@
 {
   "name": "overwrite",
   "version": "1.0.0",
-  "description": "Overwrite any file in a Node.js module on-the-fly!",
+  "description": "Forget monkey-patching your dependencies. Completely rewrite any file in a third-party package/module on-the-fly!",
   "author": "Luke Horvat",
   "license": "MIT",
   "repository": {
