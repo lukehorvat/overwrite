@@ -2,6 +2,8 @@
 
 Forget monkey-patching your dependencies. Completely _rewrite_ any file in a third-party package/module on-the-fly!
 
+Works with NPM v3+; untested on earlier versions.
+
 ## Installation
 
 Install the package with NPM:
