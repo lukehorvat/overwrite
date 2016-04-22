@@ -18,6 +18,7 @@
   },
   "dependencies": {
     "copy-dir": "0.0.8",
+    "is-string": "1.0.4",
     "tempfile": "1.1.1"
   },
   "devDependencies": {
