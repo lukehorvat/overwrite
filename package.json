@@ -1,6 +1,6 @@
 {
   "name": "overwrite",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Forget monkey-patching your dependencies. Completely rewrite any file in a third-party package/module on-the-fly!",
   "author": "Luke Horvat",
   "license": "MIT",
